@@ -1,3 +1,17 @@
 Hola, este es el primer commit
 
 Segundo commit de Main :v Tú no eres mi papá, cuyeyo
+
+Modificacion numero 1 de User 1
+
+Modificacion numero 2 de User 1	
+
+Modificacion numero 1 de User 2
+
+Modificacion numero 2 de User 2
+
+Modificacion numero 3 de User 2
+
+Modificacion numero 4 de User 2
+
+Modificacion numero 1 de User 3
